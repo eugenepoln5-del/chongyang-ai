@@ -1,0 +1,10 @@
+[project]
+name = "chongyang-kouxing"
+version = "1.0.0"
+description = "崇阳AI口型"
+requires-python = ">=3.12,<3.14"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+addopts = "-q"

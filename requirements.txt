@@ -1,0 +1,10 @@
+# Pins chosen for Apple Silicon wheels that install on macOS 13 or newer.
+# Python 3.12 or 3.13.
+mediapipe==1.2.3
+numpy==2.5.5
+opencv-contrib-python==4.14.0.94
+PySide6_Essentials==6.9.3
+soundfile==0.14.0
+sounddevice==0.5.6
+miniaudio==1.73
+imageio-ffmpeg==0.8.1
